@@ -1,0 +1,4 @@
+﻿  C++Lab2.cpp
+C:\Users\Олжас\source\repos\C++Lab2\C++Lab2\C++Lab2.cpp(499,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Олжас\source\repos\C++Lab2\C++Lab2\C++Lab2.cpp(499,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  C++Lab2.vcxproj -> C:\Users\Олжас\source\repos\C++Lab2\x64\Debug\C++Lab2.exe
